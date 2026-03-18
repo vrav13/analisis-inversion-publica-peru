@@ -46,3 +46,38 @@ Clona este repositorio.
 Asegúrate de tener instaladas las librerías mencionadas.
 
 Abre el archivo .R y ejecuta todas las secciones. El script creará automáticamente el directorio de resultados y exportará los gráficos en alta resolución (300 DPI).
+
+# 📊 Análisis y Resultados Visuales
+
+### 1. Concentración de la Inversión por Sector
+El análisis revela que el sector **Transportes y Comunicaciones** lidera la inversión pública en Perú, seguido por los Gobiernos Locales. Esto muestra una priorización de la infraestructura vial y de comunicaciones en la cartera nacional.
+
+![Ranking Inversión](resultados_graficos/01_ranking_inversion.png)
+
+---
+
+### 2. Desviación Presupuestaria (%)
+Al analizar la variación entre el monto inicial y el costo actualizado, se identificó que sectores como la **PCM** y el **Ministerio Público** presentan los mayores incrementos porcentuales (superiores al 20%), lo que sugiere debilidades en la planificación técnica inicial.
+
+![Variación Porcentual](resultados_graficos/02_variacion_presupuestal.png)
+
+---
+
+### 3. Eficiencia Temporal (Días para Viabilidad)
+Existe una disparidad significativa en los tiempos administrativos. Mientras algunos sectores son ágiles, el sector **Interior** promedia cerca de 90 días para declarar viable un proyecto, siendo el punto de mayor demora en el ciclo de inversión.
+
+![Tiempos de Viabilidad](resultados_graficos/03_tiempos_viabilidad.png)
+
+---
+
+### 4. Análisis de Estacionalidad
+El registro de proyectos no es constante; se observan picos de actividad en los meses de [menciona el mes con más proyectos según tu gráfico], lo que refleja la dinámica presupuestal del aparato estatal.
+
+![Estacionalidad](resultados_graficos/04_estacionalidad_mensual.png)
+
+---
+
+### 5. Correlación: Monto vs. Tiempo
+Mediante un modelo de regresión, se determinó que el costo del proyecto no siempre dicta el tiempo de su aprobación, sugiriendo que la burocracia depende más de procesos internos que de la magnitud del presupuesto.
+
+![Correlación](resultados_graficos/05_correlacion_monto_tiempo.png)
