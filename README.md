@@ -1,5 +1,5 @@
 # analisis-inversion-publica-peru
-Análisis exploratorio de datos (EDA) sobre la inversión pública en Perú (2020) utilizando R y Tidyverse.
+Análisis exploratorio de datos (EDA) sobre la inversión pública en Perú (2020-2024) utilizando R y Tidyverse.
 
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre la cartera de proyectos de inversión pública en Perú durante el año 2020. El objetivo es diagnosticar la eficiencia sectorial en términos de asignación presupuestaria, desviaciones de costos y agilidad administrativa.
 
